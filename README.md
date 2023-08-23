@@ -1,3 +1,3 @@
 # SMEV
 Сервис адаптер SMEV
-![Alt text](relative%20/Schema.png?raw=true "Title")
+![Alt text](relative%20Schema.png?raw=true "Title")
