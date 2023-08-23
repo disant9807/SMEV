@@ -9,4 +9,4 @@
 - Получить ответ от системы-получателя, подписать его подписью ОИВ и направить его в СМЭВ.
 - Получить запрос в СМЭВ извне, подписать его подписью ОИВ и отправить в СМЭВ.
 - Получить сообщение-ответ на ранее отправленный запрос из СМЭВ и направить его в систему, которая отправляла запрос.
-Концепт реализации обработки входящих запосов - [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/disant9807/GateSmev/blob/master/server/src/main/java/ru/spandco/binstorage/server/sheduling/SmevRequestWatcher.java)https://github.com/disant9807/GateSmev/blob/master/server/src/main/java/ru/spandco/binstorage/server/sheduling/SmevRequestWatcher.java)
+Концепт реализации обработки входящих запосов - [Смотреть тут](https://github.com/disant9807/GateSmev/blob/1ddcfcd53aeba0100e76a502060f294cdb3a3f75/server/src/main/java/ru/spandco/binstorage/server/sheduling/SmevRequestWatcher.java)
