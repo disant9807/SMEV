@@ -1,3 +1,3 @@
 # SMEV
 Сервис адаптер SMEV
-![plot](./Schema.png)
+![alt text](https://github.com/disant9807/SMEV/blob/[main]/Schema.png?raw=true)
