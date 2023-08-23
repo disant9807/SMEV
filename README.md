@@ -25,3 +25,11 @@ API хранилища предоставляет возможность пол�
 
 :black_square_button: Концепт реализации обработки входящих запосов - [Смотреть тут](https://github.com/disant9807/GateSmev/blob/1ddcfcd53aeba0100e76a502060f294cdb3a3f75/server/src/main/java/ru/spandco/binstorage/server/sheduling/SmevRequestWatcher.java) \
 :black_square_button: Концепт реализации контроллера, предоставляемого другим сервисам (прокси). - [Смотреть тут](https://github.com/disant9807/GateSmev/blob/1ddcfcd53aeba0100e76a502060f294cdb3a3f75/server/src/main/java/ru/spandco/binstorage/server/controllers/GateController.java) 
+
+## Сервис Manual Концепт (не реализован).
+### Описание
+Ручная отправка запросов в СМЭВ.
+### Основные задаче Manual:
+- Сформировать запрос в СМЭВ на основе XSD схемы
+- Обработать ответ на запрос в СМЭВ \
+:black_square_button: Концепт отправка запросов в СМЭВ - [Смотреть тут](https://github.com/disant9807/SmevManual/blob/master/server/src/main/java/ru/spandco/binstorage/server/controllers/ManualController.java)
